@@ -1,0 +1,12 @@
+# Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data (too large for GitHub)
+data/*.csv
+
+# OS files
+.DS_Store
+desktop.ini
